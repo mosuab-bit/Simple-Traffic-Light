@@ -1,0 +1,11 @@
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\bin\Debug\Simple Traffic Light Project.exe.config
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\bin\Debug\Simple Traffic Light Project.exe
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\bin\Debug\Simple Traffic Light Project.pdb
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\obj\Debug\Simple Traffic Light Project.csproj.AssemblyReference.cache
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\obj\Debug\Simple_Traffic_Light_Project.Properties.Resources.resources
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\obj\Debug\Simple_Traffic_Light_Project.TrafficLight.resources
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\obj\Debug\Simple Traffic Light Project.csproj.GenerateResource.cache
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\obj\Debug\Simple Traffic Light Project.csproj.CoreCompileInputs.cache
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\obj\Debug\Simple Traffic Light Project.exe
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\obj\Debug\Simple Traffic Light Project.pdb
+D:\Data\Cources Programming Devices\Projects in C#\Simple Traffic Light Project\Simple Traffic Light Project\obj\Debug\Simple_Traffic_Light_Project.Form1.resources
